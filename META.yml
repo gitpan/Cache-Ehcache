@@ -20,8 +20,10 @@ no_index:
     - t
 requires:
   Filter::Util::Call: 0
+  LWP: 0
+  Moose: 0
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/dragon3/Cache-Ehcache.git
-version: 0.01
+version: 0.02
