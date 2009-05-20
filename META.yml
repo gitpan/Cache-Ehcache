@@ -1,7 +1,7 @@
 ---
 abstract: 'client library for Ehcache Server'
 author:
-  - 'YAMAMOTO Ryuzo (dragon3) <ryuzo.yamamoto@gmail.com>, <yamamoto@nulab.co.jp>'
+  - 'YAMAMOTO Ryuzo (dragon3) <ryuzo.yamamoto@gmail.com>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
   Test::More: 0
@@ -26,4 +26,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/dragon3/Cache-Ehcache.git
-version: 0.02
+version: 0.03
